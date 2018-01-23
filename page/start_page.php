@@ -15,6 +15,6 @@ require "framework.php";
     <link rel="stylesheet" href="framework/page_files/css/style.css">
 </head>
 <body>
-    <p>hi</p>
+    <h1>hi</h1>
 </body>
 </html>
